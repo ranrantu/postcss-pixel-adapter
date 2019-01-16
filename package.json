@@ -1,0 +1,22 @@
+{
+  "name": "postcss-pixel-adapter",
+  "version": "1.0.0",
+  "description": "a postcss pixel plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranrantu/postcss-pixel-adapter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranrantu/postcss-pixel-adapter/issues"
+  },
+  "homepage": "https://github.com/ranrantu/postcss-pixel-adapter#readme",
+  "dependencies": {
+    "postcss": "^7.0.13"
+  }
+}
